@@ -23,8 +23,7 @@ console.log("num2: ", num2);
 let Add = num1 + num2;
 let Sub = num1 - num2;
 
-alert("Additon:" + Add )
-alert("SUBTRACT:" + Sub )
-alert("DIVISION:" + num1 * num2 )
-alert("MUlTIPLICATION:" + num1 / num2 )
-
+alert("Additon:" + Add);
+alert("SUBTRACT:" + Sub);
+alert("DIVISION:" + num1 * num2);
+alert("MUlTIPLICATION:" + num1 / num2);
